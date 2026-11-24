@@ -27,7 +27,7 @@
 ## 🏅 Badges & Certifications
 
 <p align="center">
-  <img src="assets/leetcode-100days.gif" width="110" alt="LeetCode 100 Days Badge" />
+  <img src="leetcode-100days.gif" width="110" alt="LeetCode 100 Days Badge" />
 </p>
 
 <p align="center">
